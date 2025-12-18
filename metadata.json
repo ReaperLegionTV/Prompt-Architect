@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Prompt Architect",
+  "description": "A sophisticated multi-agent system that analyzes images through multiple specialized lenses to generate hyper-optimized image generation prompts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
