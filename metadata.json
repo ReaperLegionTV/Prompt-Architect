@@ -1,6 +1,6 @@
 {
-  "name": "Gemini Prompt Architect",
-  "description": "A sophisticated multi-agent system that analyzes images through multiple specialized lenses to generate hyper-optimized image generation prompts.",
+  "name": "Nexus Prompt Architect V3",
+  "description": "An elite multi-agent vision-to-prompt system utilizing the latest Gemini 3 Flash and Pro models for cinematic-grade prompt engineering.",
   "requestFramePermissions": [
     "camera"
   ]
